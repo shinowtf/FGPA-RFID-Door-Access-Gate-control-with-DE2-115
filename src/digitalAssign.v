@@ -1,3 +1,5 @@
+//Access Gate control for a gate that open with an RFID card with using DE2-115
+
 module digitalAssign(clk, rst, rst_n, a, b, c, d, e,  indicator, HEX, door, status1, status2, status3, status4, status5, i1, i2, i3, i4, i5, led);
 input clk, rst, rst_n, a, b, c, d, e, i1, i2, i3, i4, i5;
 output reg[7:0]indicator;

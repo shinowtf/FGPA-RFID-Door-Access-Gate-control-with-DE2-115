@@ -1,0 +1,104 @@
+# Copyright (C) 2018  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+
+# Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+# File: C:\Users\kahch\Downloads\pin_plannar_RFIF.csv
+# Generated on: Sat Jan 04 23:51:30 2025
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Strict Preservation
+HEX[6],Output,PIN_AA14,3,B3_N0,PIN_AA14,2.5 V,,,,,
+HEX[5],Output,PIN_AG18,4,B4_N2,PIN_AG18,2.5 V,,,,,
+HEX[4],Output,PIN_AF17,4,B4_N2,PIN_AF17,2.5 V,,,,,
+HEX[3],Output,PIN_AH17,4,B4_N2,PIN_AH17,2.5 V,,,,,
+HEX[2],Output,PIN_AG17,4,B4_N2,PIN_AG17,2.5 V,,,,,
+HEX[1],Output,PIN_AE17,4,B4_N2,PIN_AE17,2.5 V,,,,,
+HEX[0],Output,PIN_AD17,4,B4_N2,PIN_AD17,2.5 V,,,,,
+a,Input,PIN_AB28,5,B5_N1,PIN_AB28,2.5 V,,,,,
+b,Input,PIN_AC28,5,B5_N2,PIN_AC28,2.5 V,,,,,
+c,Input,PIN_AC27,5,B5_N2,PIN_AC27,2.5 V,,,,,
+clk,Input,PIN_Y2,2,B2_N0,PIN_Y2,2.5 V,,,,,
+d,Input,PIN_AD27,5,B5_N2,PIN_AD27,2.5 V,,,,,
+door,Output,PIN_F17,7,B7_N2,PIN_F17,2.5 V,,,,,
+e,Input,PIN_AB27,5,B5_N1,PIN_AB27,2.5 V,,,,,
+i1,Input,PIN_Y23,5,B5_N2,PIN_Y23,2.5 V,,,,,
+i2,Input,PIN_Y24,5,B5_N2,PIN_Y24,2.5 V,,,,,
+i3,Input,PIN_AA22,5,B5_N2,PIN_AA22,2.5 V,,,,,
+i4,Input,PIN_AA23,5,B5_N2,PIN_AA23,2.5 V,,,,,
+i5,Input,PIN_AA24,5,B5_N2,PIN_AA24,2.5 V,,,,,
+indicator[7],Output,PIN_G21,7,B7_N1,PIN_G21,2.5 V,,,,,
+indicator[6],Output,PIN_G22,7,B7_N2,PIN_G22,2.5 V,,,,,
+indicator[5],Output,PIN_G20,7,B7_N1,PIN_G20,2.5 V,,,,,
+indicator[4],Output,PIN_H21,7,B7_N2,PIN_H21,2.5 V,,,,,
+indicator[3],Output,PIN_E24,7,B7_N1,PIN_E24,2.5 V,,,,,
+indicator[2],Output,PIN_E25,7,B7_N1,PIN_E25,2.5 V,,,,,
+indicator[1],Output,PIN_E22,7,B7_N0,PIN_E22,2.5 V,,,,,
+indicator[0],Output,PIN_E21,7,B7_N0,PIN_E21,2.5 V,,,,,
+led[17],Output,PIN_H15,7,B7_N2,PIN_H15,2.5 V,,,,,
+led[16],Output,PIN_G16,7,B7_N2,PIN_G16,2.5 V,,,,,
+led[15],Output,PIN_G15,7,B7_N2,PIN_G15,2.5 V,,,,,
+led[14],Output,PIN_F15,7,B7_N2,PIN_F15,2.5 V,,,,,
+led[13],Output,PIN_H17,7,B7_N2,PIN_H17,2.5 V,,,,,
+led[12],Output,PIN_J16,7,B7_N2,PIN_J16,2.5 V,,,,,
+led[11],Output,PIN_H16,7,B7_N2,PIN_H16,2.5 V,,,,,
+led[10],Output,PIN_J15,7,B7_N2,PIN_J15,2.5 V,,,,,
+led[9],Output,PIN_G17,7,B7_N1,PIN_G17,2.5 V,,,,,
+led[8],Output,PIN_J17,7,B7_N2,PIN_J17,2.5 V,,,,,
+led[7],Output,PIN_H19,7,B7_N2,PIN_H19,2.5 V,,,,,
+led[6],Output,PIN_J19,7,B7_N2,PIN_J19,2.5 V,,,,,
+led[5],Output,PIN_E18,7,B7_N1,PIN_E18,2.5 V,,,,,
+led[4],Output,PIN_F18,7,B7_N1,PIN_F18,2.5 V,,,,,
+led[3],Output,PIN_F21,7,B7_N0,PIN_F21,2.5 V,,,,,
+led[2],Output,PIN_E19,7,B7_N0,PIN_E19,2.5 V,,,,,
+led[1],Output,PIN_F19,7,B7_N0,PIN_F19,2.5 V,,,,,
+led[0],Output,PIN_G19,7,B7_N2,PIN_G19,2.5 V,,,,,
+rst,Input,PIN_M21,6,B6_N1,PIN_M21,2.5 V,,,,,
+rst_n,Input,PIN_M23,6,B6_N2,PIN_M23,2.5 V,,,,,
+status1[6],Output,PIN_Y19,4,B4_N0,PIN_Y19,2.5 V,,,,,
+status1[5],Output,PIN_AF23,4,B4_N0,PIN_AF23,2.5 V,,,,,
+status1[4],Output,PIN_AD24,4,B4_N0,PIN_AD24,2.5 V,,,,,
+status1[3],Output,PIN_AA21,4,B4_N0,PIN_AA21,2.5 V,,,,,
+status1[2],Output,PIN_AB20,4,B4_N0,PIN_AB20,2.5 V,,,,,
+status1[1],Output,PIN_U21,5,B5_N0,PIN_U21,2.5 V,,,,,
+status1[0],Output,PIN_V21,5,B5_N1,PIN_V21,2.5 V,,,,,
+status2[6],Output,PIN_W28,5,B5_N1,PIN_W28,2.5 V,,,,,
+status2[5],Output,PIN_W27,5,B5_N1,PIN_W27,2.5 V,,,,,
+status2[4],Output,PIN_Y26,5,B5_N1,PIN_Y26,2.5 V,,,,,
+status2[3],Output,PIN_W26,5,B5_N1,PIN_W26,2.5 V,,,,,
+status2[2],Output,PIN_Y25,5,B5_N1,PIN_Y25,2.5 V,,,,,
+status2[1],Output,PIN_AA26,5,B5_N1,PIN_AA26,2.5 V,,,,,
+status2[0],Output,PIN_AA25,5,B5_N1,PIN_AA25,2.5 V,,,,,
+status3[6],Output,PIN_U24,5,B5_N0,PIN_U24,2.5 V,,,,,
+status3[5],Output,PIN_U23,5,B5_N1,PIN_U23,2.5 V,,,,,
+status3[4],Output,PIN_W25,5,B5_N1,PIN_W25,2.5 V,,,,,
+status3[3],Output,PIN_W22,5,B5_N0,PIN_W22,2.5 V,,,,,
+status3[2],Output,PIN_W21,5,B5_N1,PIN_W21,2.5 V,,,,,
+status3[1],Output,PIN_Y22,5,B5_N0,PIN_Y22,2.5 V,,,,,
+status3[0],Output,PIN_M24,6,B6_N2,PIN_M24,2.5 V,,,,,
+status4[6],Output,PIN_H22,6,B6_N0,PIN_H22,2.5 V,,,,,
+status4[5],Output,PIN_J22,6,B6_N0,PIN_J22,2.5 V,,,,,
+status4[4],Output,PIN_L25,6,B6_N1,PIN_L25,2.5 V,,,,,
+status4[3],Output,PIN_L26,6,B6_N1,PIN_L26,2.5 V,,,,,
+status4[2],Output,PIN_E17,7,B7_N2,PIN_E17,2.5 V,,,,,
+status4[1],Output,PIN_F22,7,B7_N0,PIN_F22,2.5 V,,,,,
+status4[0],Output,PIN_G18,7,B7_N2,PIN_G18,2.5 V,,,,,
+status5[6],Output,PIN_AE18,4,B4_N2,PIN_AE18,2.5 V,,,,,
+status5[5],Output,PIN_AF19,4,B4_N1,PIN_AF19,2.5 V,,,,,
+status5[4],Output,PIN_AE19,4,B4_N1,PIN_AE19,2.5 V,,,,,
+status5[3],Output,PIN_AH21,4,B4_N2,PIN_AH21,2.5 V,,,,,
+status5[2],Output,PIN_AG21,4,B4_N2,PIN_AG21,2.5 V,,,,,
+status5[1],Output,PIN_AA19,4,B4_N0,PIN_AA19,2.5 V,,,,,
+status5[0],Output,PIN_AB19,4,B4_N0,PIN_AB19,2.5 V,,,,,
+reset_n,Unknown,PIN_N21,6,B6_N2,,,,,,,
