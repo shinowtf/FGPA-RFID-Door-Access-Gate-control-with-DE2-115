@@ -1,24 +1,3 @@
-﻿![](Aspose.Words.d7a8eb0e-f0d3-491b-8721-ab92c5124994.001.png)
-
-**Department of Electrical and Electronics Engineering Faculty of Engineering** 
-
-**ASSIGNMENT REPORT 
-EEE3473-INDIVIDUAL ASSIGNMENT SEMESTER V 2024/2025** 
-
-**TITLE** 
-
-**Access Gate Control for a Gate that Open with an RFID Card** 
-
-**ADVISOR** 
-
-**Dr. Anis Shahida Niza Binti Mokhtar** 
-
-
-
-|**No.** |**Name** |**Matric No.** |
-| - | - | - |
-|**1.** |**LEE KAH CHUN** |**2220847** |
-
 **Table of Contents** 
 
 1. **Solution** 
